@@ -1,0 +1,22 @@
+{
+  "name": "playwirght-jest-visual-testing",
+  "version": "1.0.0",
+  "description": "1st release for intergrate playright with jest-image-snapeshot",
+  "main": "jest.config.js",
+  "dependencies": {
+    "jest": "25.5.4",
+    "jest-image-snapshot": "^4.4.0",
+    "jest-playwright-preset": "^1.5.1",
+    "playwright": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "now"
+  },
+  "author": "aaron xiang",
+  "license": "MIT"
+}
